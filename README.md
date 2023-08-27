@@ -30,3 +30,6 @@
   <li>To navigate to the parent directory in the Linux terminal we use the cd.. command and we can keep going repeatedly till we land to the directory we want. so we would use cd../.. to go back to two directories behind </li>
   <li>The cp command is used to copy one or more files</li>
 </ol>
+
+![Terminal Screenshot](https://github.com/rkareem2/-Rasheed-_Training_Modules/assets/73237294/824d972d-0884-40eb-81c0-e9c3c9e8ae97)
+
