@@ -14,3 +14,19 @@
 
 <h2>Favorite Song on Youtube</h2>
 <a href="https://www.youtube.com/watch?v=LHCob76kigA" target="_blank">Youtube</a>
+
+
+
+
+
+<h1>"Rasheed Module Two"</h1>
+
+<h2>Answers:</h2>
+
+<ol>
+  <li>The command used to display the current working directory is the pwd command  </li>
+  <li>To create a new directory in Linux we use mkdir command followed by whatever name we would like to assign the directory</li>
+  <li>We use the Is command to list files and directories in a current directory</li>
+  <li>To navigate to the parent directory in the Linux terminal we use the cd.. command and we can keep going repeatedly till we land to the directory we want. so we would use cd../.. to go back to two directories behind </li>
+  <li>The cp command is used to copy one or more files</li>
+</ol>
