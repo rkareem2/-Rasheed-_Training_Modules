@@ -14,3 +14,18 @@
 
 <h2>Favorite Song on Youtube</h2>
 <a href="https://www.youtube.com/watch?v=LHCob76kigA" target="_blank">Youtube</a>
+
+
+
+
+
+<h1>"Rasheed Module Three"</h1>
+
+<h2>Answers</h2>
+
+<ol>
+  <li>To add a single line comment in python we use # followed by whatever we intend to write</li>
+  <li>To add a single line comment in c++ we use two forward slashes (//)</li>
+  <li>To add a multi-line comment in Python we use Triple Quotes (""") before the beginning of whatever we would like to comment out and then the same at the end of the comment</li>
+  <li>To add a multi-line comment in C++ we use (/*) at the beginning of our comment and close the multi-line comment with (*/)</li>
+</ol>
