@@ -29,3 +29,12 @@
   <li>To add a multi-line comment in Python we use Triple Quotes (""") before the beginning of whatever we would like to comment out and then the same at the end of the comment</li>
   <li>To add a multi-line comment in C++ we use (/*) at the beginning of our comment and close the multi-line comment with (*/)</li>
 </ol>
+
+<h2>Mod3_Q3 Documentation</h2>
+<h3>Identifying Odd or Even numbers</h3>
+<h4>This code helps us identify Odd and even numbers by using the Modulo operator which is an operator 
+   that shows the remainder of any arithmetic. If a number is even and is divided by two it has no remainder
+    but an odd number would have a remainder greater than 0. In this solution, I used that logic to arrive at
+     a solution</h4>
+<h3>Parameters</h3>
+<h4>num 1, num2 and sum</h4>
